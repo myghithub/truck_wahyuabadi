@@ -1,0 +1,156 @@
+{
+   "pc": "com.kangriez.modbussidtruckwahyuabadi",
+   "kang_zayvius": [
+      {
+        "id": "1",
+        "tittle": "PickUP",
+        "date": "2020-12-31",
+        "link_file": "https://archive.org/download/pickup_202012/pickup.zip",
+        "format_file":"zip",
+        "images": "https://lh3.googleusercontent.com/DyH_3ESpjTj5NcNA2M-H_RQlgN0uFDJx3UAOaVeMBqAMF6WGlxfqBldLDgCosmv_pk8=h1024-no-tmp_mod_bussid_l300_rotary_apk.jpg"
+      },
+      {
+         "id": "2",
+         "tittle": "Umplung Kayu",
+         "date": "2020-12-31",
+         "link_file": "https://archive.org/download/umplungkayu/umplungkayu.zip",
+         "format_file":"zip",
+         "images": "https://1.bp.blogspot.com/-Ix-BTN9LqJs/Xt0Rm4Oq4PI/AAAAAAAACvI/O1jiZzpSwo4pRi5ogJzTo40IgmJt1_abQCNcBGAsYHQ/s1600/mod%2Bbussid%2Btruck%2Bumplung%2Bmuatan%2Bkayu.jpeg"
+       },
+       {
+         "id": "3",
+         "tittle": "Umplung Sawit",
+         "date": "2020-12-31",
+         "link_file": "https://archive.org/download/umplung-sawit_202012/umplung%20sawit.zip",
+         "format_file":"zip",
+         "images": "https://1.bp.blogspot.com/-K6gAqK8D_rI/Xt0RmycbzdI/AAAAAAAACvM/FoUB5Z30VKcbYjQ1Me4ReWR83jUDH0KCgCNcBGAsYHQ/s1600/mod%2Bbussid%2Btruck%2Bumplung%2Bmuatan%2Bsawit.jpeg"
+       },
+       {
+         "id": "4",
+         "tittle": "Truck Trailer Missile Launcher ",
+         "date": "2020-12-31",
+         "link_file": "https://archive.org/download/truck-trailer-missile-launcher-mod-bussid-terbaru.com/Truck%20Trailer%20Missile%20Launcher%20ModBussidTerbaru.com.zip",
+         "format_file":"zip",
+         "images": "https://1.bp.blogspot.com/-iX6H2YWzYyE/Xjac5SRLeoI/AAAAAAAACx0/ygs6Haal2NMrkI3L6AiWGeVicgtDRk7DACLcBGAsYHQ/s640/truk%2Bperang.jpg"
+       },{
+         "id": "5",
+         "tittle": "Truck Center Gayor",
+         "date": "2020-12-31",
+         "link_file": "https://archive.org/download/truck-canter-gayor_202012/Truck%20Canter%20Gayor.zip",
+         "format_file":"zip",
+         "images": "https://i.ytimg.com/vi/IwFo7YsUW_E/maxresdefault.jpg"
+       },
+       {
+         "id": "6",
+         "tittle": "Truck Angkut Sound",
+         "date": "2020-12-31",
+         "link_file": "https://archive.org/download/truck-canter-angkut-sound_202012/Truck%20Canter%20Angkut%20Sound.zip",
+         "format_file":"zip",
+         "images": "https://1.bp.blogspot.com/-p4_S5FB2-5U/XjY2BqJMRcI/AAAAAAAACxE/Rmpi3gPtM-4D1fqUmjUCVlyGWyGNop1vQCLcBGAsYHQ/s640/Truck%2BSound%2BSystem.jpg"
+       },
+       {
+         "id": "7",
+         "tittle": "Truck Terpal Segi Tiga Setengah",
+         "date": "2020-12-31",
+         "link_file": "https://archive.org/download/terpal-segitiga-setengah-1_202012/TERPAL%20SEGITIGA%20SETENGAH%20%281%29.zip",
+         "format_file":"zip",
+         "images": "https://i.ytimg.com/vi/jsvFYJ8Qneo/maxresdefault.jpg"
+       },
+       {
+         "id": "8",
+         "tittle": "Truck Center Muatan Batu",
+         "date": "2021-01-01",
+         "link_file": "https://archive.org/download/truck-canter-muatan-batu-cvt-zone-id/Truck%20Canter%20Muatan%20Batu%20CVT%20ZoneID.zip",
+         "format_file":"zip",
+         "images": "https://1.bp.blogspot.com/-Or2phh0TzVQ/XjwX5noOnmI/AAAAAAAACZ8/OH8WmsCNzkElipwDLbhK21_tXU-svP_zwCLcBGAsYHQ/s640/BATU.png"
+       },
+       {
+         "id": "9",
+         "tittle": "Truck Center RSM",
+         "date": "2021-01-01",
+         "link_file": "https://archive.org/download/canter-rsm-c/canter%20rsm%20c.zip",
+         "format_file":"zip",
+         "images": "https://i.ytimg.com/vi/2-end08nghY/hqdefault.jpg"
+       },
+       {
+         "id": "10",
+         "tittle": "Truck Center Tronton",
+         "date": "2021-01-01",
+         "link_file": "https://archive.org/download/truck-canter-tronton_202012/Truck%20Canter%20Tronton.zip",
+         "format_file":"zip",
+         "images": "https://modbussidterbaru.com/wp-content/uploads/2019/12/mod-bussid-truck-canter-livery-keren.jpg"
+       },
+       {
+         "id": "11",
+         "tittle": "Optimus Prime",
+         "date": "2021-01-02",
+         "link_file": "https://archive.org/download/mods-optimus-prime_202012/Mods%20Optimus%20Prime.zip",
+         "format_file":"zip",
+         "images": "https://i.ytimg.com/vi/5R_JiE7n-YA/hqdefault.jpg"
+       },
+       {
+         "id": "12",
+         "tittle": "New Margo Joyo Terpal Segitiga",
+         "date": "2021-01-02",
+         "link_file": "https://archive.org/download/new-margo-joyo-terpal-segitiga/New%20Margo%20Joyo%20Terpal%20Segitiga.zip",
+         "format_file":"zip",
+         "images": "https://i.ytimg.com/vi/25fuYiXXZHk/mqdefault.jpg"
+       },
+       {
+         "id": "13",
+         "tittle": "Hino Profia Selfloader (KV2) Muat Tank",
+         "date": "2021-01-02",
+         "link_file": "https://archive.org/download/hino-profia-selfloader-kv-2-muat-tank_202012/Hino%20Profia%20Selfloader%20%28KV2%29%20Muat%20Tank.zip",
+         "format_file":"zip",
+         "images": "https://i0.wp.com/www.digitekno.id/wp-content/uploads/2019/10/Hino-Profia-Selfloader-KV2-Muat-Tank-Digitekno.jpg"
+       },
+       {
+        "id": "14",
+        "tittle": "Angsa Putih Terpal Setengah",
+        "date": "2021-01-02",
+        "link_file": "https://archive.org/download/angsa-putih-terpal-setengah/Angsa%20Putih%20Terpal%20Setengah.zip",
+        "format_file":"zip",
+        "images": "https://i1.wp.com/www.sgcarena.com/wp-content/uploads/2020/03/Umplung-Angsa-Putih-Mod-for-BUSSID-SGCArena.jpg?fit=1920%2C1080&ssl=1"
+      },
+      {
+        "id": "15",
+        "tittle": "Mod Truck Canter Tawakal",
+        "date": "2021-01-02",
+        "link_file": "https://archive.org/download/isuzu-nmr-71-bemper-2-terpal-segitiga-2/ISUZU%20NMR71%20Bemper%202%20%28terpal%20segitiga%29%20%282%29.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-yH2EQRuGwu4/XbW0pXG6_II/AAAAAAAABus/M-yrqmuHNfUUGweiUlHdpukrxPqj4kzZgCLcBGAsYHQ/s1600/Screenshot_20191027-221126.png"
+      },
+      {
+        "id": "16",
+        "tittle": "Canter Putih Merah Keren",
+        "date": "2021-01-02",
+        "link_file": "https://archive.org/download/nmr-71-by-bmp-team-varian-3/NMR%2071%20BY%20BMP%20TEAM%20VARIAN%203.zip",
+        "format_file":"zip",
+        "images": "https://modbussidterbaru.com/wp-content/uploads/2020/01/Truck-NMR-71.jpg"
+      },
+      {
+        "id": "17",
+        "tittle": "Canter JB3 Black",
+        "date": "2021-01-02",
+        "link_file": "https://archive.org/download/truck-canter-jb-3/Truck%20Canter%20JB3.zip",
+        "format_file":"zip",
+        "images": "https://modbussidterbaru.com/wp-content/uploads/2020/01/truck-canter-jb3.jpg"
+      },
+      {
+        "id": "18",
+        "tittle": "Truck NMR 71",
+        "date": "2021-01-02",
+        "link_file": "https://archive.org/download/nmr-71-truck-mod/NMR%2071%20Truck%20Mod.zip",
+        "format_file":"zip",
+        "images": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2020/11/SGCA_IMG-6277.jpg?w=1280&ssl=1"
+      },
+      {
+        "id": "19",
+        "tittle": "Truck Canter Full Strobo",
+        "date": "2021-01-02",
+        "link_file": "https://archive.org/download/truck-canter-full-strobo/Truck%20Canter%20Full%20Strobo.zip",
+        "format_file":"zip",
+        "images": "https://modbussidterbaru.com/wp-content/uploads/2020/01/truck-canter-full-strobo.jpg"
+      }
+   ]
+}
