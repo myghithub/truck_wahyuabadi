@@ -152,6 +152,22 @@
         "link_file": "https://archive.org/download/truck-canter-full-strobo/Truck%20Canter%20Full%20Strobo.zip",
         "format_file":"zip",
         "images": "https://modbussidterbaru.com/wp-content/uploads/2020/01/truck-canter-full-strobo.jpg"
-      }
+      },
+      {
+        "id": "20",
+        "tittle": "Truck Wahyu Abadi Muatan Beras",
+        "date": "2021-02-01",
+        "link_file": "https://archive.org/download/wahyu-abadi-muatan-beras/Wahyu%20Abadi%20Muatan%20Beras.zip",
+        "format_file":"zip",
+        "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4HgbNzsTFsvGbhlkQhE-cbCHMWO15cKW1LAF0VGqZHyr8QZe1&s"
+      },
+      {
+        "id": "21",
+        "tittle": "Truck Wahyu Abadi Full Sticker",
+        "date": "2021-02-01",
+        "link_file": "https://archive.org/download/wahyu-abadi-full-sticker/Wahyu%20Abadi%20Full%20Sticker.zip",
+        "format_file":"zip",
+        "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3cTHpueD6OYvMRGOiPH6od2nExFhUXxnGfTILma_0O5-RbWh&s"
+      },
    ]
 }
